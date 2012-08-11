@@ -1,0 +1,1 @@
+/home/min/.vimrc
